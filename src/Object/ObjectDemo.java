@@ -9,7 +9,7 @@ public class ObjectDemo {
         System.out.print("请输入年龄：");
         int age = sc.nextInt();
         Student s = new Student(name, age);
-        System.out.println(s);    // Object.Student@6193b845    默认调用toString方法，但是一般该方法需要进行重写
+        System.out.println(s);    // Object.Student@6193b845    默认调用toString方法，但是一般该方法需要进行重写  重写输出结果为Student{name='zhang', age=18}
         s.printStudent();
         System.out.println("------------------------");
 
