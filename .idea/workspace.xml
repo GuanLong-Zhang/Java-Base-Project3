@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bdff99f5-0d68-41c6-bb65-c99f381a40fa" name="更改" comment="add">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/ArraysDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/ArraysDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Integer/IntegerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Integer/IntegerDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Integer/IntegerDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Integer/IntegerDemo3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Object/ObjectDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Object/ObjectDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Object/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Object/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,33 +49,7 @@
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
-  <component name="RunManager" selected="应用程序.ArraysDemo1">
-    <configuration name="ArrayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.ArrayDemo" />
-      <module name="Java-Base-Project3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArraysDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.ArraysDemo" />
-      <module name="Java-Base-Project3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="应用程序.IntegerDemo3">
     <configuration name="ArraysDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.ArraysDemo1" />
       <module name="Java-Base-Project3" />
@@ -90,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjectDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Object.ObjectDemo" />
+    <configuration name="IntegerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Integer.IntegerDemo" />
       <module name="Java-Base-Project3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Object.*" />
+          <option name="PATTERN" value="Integer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +76,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SystemDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="System.SystemDemo" />
+    <configuration name="IntegerDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Integer.IntegerDemo1" />
       <module name="Java-Base-Project3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="System.*" />
+          <option name="PATTERN" value="Integer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntegerDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Integer.IntegerDemo2" />
+      <module name="Java-Base-Project3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Integer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntegerDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Integer.IntegerDemo3" />
+      <module name="Java-Base-Project3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Integer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.IntegerDemo3" />
+        <item itemvalue="应用程序.IntegerDemo2" />
+        <item itemvalue="应用程序.IntegerDemo1" />
+        <item itemvalue="应用程序.IntegerDemo" />
         <item itemvalue="应用程序.ArraysDemo1" />
-        <item itemvalue="应用程序.ArraysDemo" />
-        <item itemvalue="应用程序.ArrayDemo" />
-        <item itemvalue="应用程序.ObjectDemo" />
-        <item itemvalue="应用程序.SystemDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +133,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699694387101</updated>
-      <workItem from="1699694388348" duration="10677000" />
+      <workItem from="1699694388348" duration="16618000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <created>1699695765476</created>
@@ -164,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699717332011</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add">
+      <created>1699776678326</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1699776678326</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
