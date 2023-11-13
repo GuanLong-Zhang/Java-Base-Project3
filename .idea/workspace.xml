@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bdff99f5-0d68-41c6-bb65-c99f381a40fa" name="更改" comment="add">
-      <change afterPath="$PROJECT_DIR$/src/ExceptionDemos/ScoreException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExceptionDemos/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExceptionDemos/TeacherDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionDemos/CollectionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionDemos/CollectionDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionDemos/IteratorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionDemos/ListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionDemos/ListDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionDemos/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,13 +51,13 @@
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
-  <component name="RunManager" selected="应用程序.TeacherDemo">
-    <configuration name="CalendarDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataDemos.CalendarDemo" />
+  <component name="RunManager" selected="应用程序.ListDemo1">
+    <configuration name="CollectionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionDemos.CollectionDemo" />
       <module name="Java-Base-Project3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DataDemos.*" />
+          <option name="PATTERN" value="CollectionDemos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExceptionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExceptionDemos.ExceptionDemo" />
+    <configuration name="CollectionDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionDemos.CollectionDemo1" />
       <module name="Java-Base-Project3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExceptionDemos.*" />
+          <option name="PATTERN" value="CollectionDemos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExceptionDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExceptionDemos.ExceptionDemo1" />
+    <configuration name="IteratorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionDemos.IteratorDemo" />
       <module name="Java-Base-Project3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExceptionDemos.*" />
+          <option name="PATTERN" value="CollectionDemos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TeacherDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExceptionDemos.TeacherDemo" />
+    <configuration name="ListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionDemos.ListDemo" />
       <module name="Java-Base-Project3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExceptionDemos.*" />
+          <option name="PATTERN" value="CollectionDemos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoMonthDay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataDemos.TwoMonthDay" />
+    <configuration name="ListDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionDemos.ListDemo1" />
       <module name="Java-Base-Project3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DataDemos.*" />
+          <option name="PATTERN" value="CollectionDemos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.TeacherDemo" />
-        <item itemvalue="应用程序.ExceptionDemo1" />
-        <item itemvalue="应用程序.ExceptionDemo" />
-        <item itemvalue="应用程序.TwoMonthDay" />
-        <item itemvalue="应用程序.CalendarDemo" />
+        <item itemvalue="应用程序.ListDemo1" />
+        <item itemvalue="应用程序.ListDemo" />
+        <item itemvalue="应用程序.CollectionDemo1" />
+        <item itemvalue="应用程序.IteratorDemo" />
+        <item itemvalue="应用程序.CollectionDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -132,7 +135,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699694387101</updated>
-      <workItem from="1699694388348" duration="36726000" />
+      <workItem from="1699694388348" duration="44855000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <created>1699695765476</created>
@@ -204,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699863532704</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="add">
+      <created>1699867733358</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1699867733358</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
