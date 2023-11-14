@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bdff99f5-0d68-41c6-bb65-c99f381a40fa" name="更改" comment="add">
+      <change afterPath="$PROJECT_DIR$/src/CollectionDemos/ForDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionDemos/ListDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionDemos/ListDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionDemos/ListIteratorDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CollectionDemos/ListDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CollectionDemos/ListDemo1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,48 +50,9 @@
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
-  <component name="RunManager" selected="应用程序.ListDemo1">
-    <configuration name="CollectionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CollectionDemos.CollectionDemo" />
-      <module name="Java-Base-Project3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CollectionDemos.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CollectionDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CollectionDemos.CollectionDemo1" />
-      <module name="Java-Base-Project3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CollectionDemos.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IteratorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CollectionDemos.IteratorDemo" />
-      <module name="Java-Base-Project3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CollectionDemos.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CollectionDemos.ListDemo" />
+  <component name="RunManager" selected="应用程序.ListDemo3">
+    <configuration name="ForDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionDemos.ForDemo" />
       <module name="Java-Base-Project3" />
       <extension name="coverage">
         <pattern>
@@ -111,13 +77,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ListDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionDemos.ListDemo2" />
+      <module name="Java-Base-Project3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CollectionDemos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionDemos.ListDemo3" />
+      <module name="Java-Base-Project3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CollectionDemos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListIteratorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionDemos.ListIteratorDemo" />
+      <module name="Java-Base-Project3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CollectionDemos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.ListDemo3" />
+        <item itemvalue="应用程序.ForDemo" />
+        <item itemvalue="应用程序.ListIteratorDemo" />
+        <item itemvalue="应用程序.ListDemo2" />
         <item itemvalue="应用程序.ListDemo1" />
-        <item itemvalue="应用程序.ListDemo" />
-        <item itemvalue="应用程序.CollectionDemo1" />
-        <item itemvalue="应用程序.IteratorDemo" />
-        <item itemvalue="应用程序.CollectionDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -129,7 +134,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699694387101</updated>
-      <workItem from="1699694388348" duration="45837000" />
+      <workItem from="1699694388348" duration="51457000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <created>1699695765476</created>
@@ -215,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699880086456</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="add">
+      <created>1699924067341</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1699924067341</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

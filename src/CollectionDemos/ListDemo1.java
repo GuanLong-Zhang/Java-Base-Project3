@@ -13,7 +13,7 @@ public class ListDemo1 {
         l.add(s1);
         l.add(s2);
 
-        //遍历1
+        //遍历1 for + 索引
         for(int i = 0; i < l.size(); i++){
             l.get(i).printStudent();
             System.out.println("-----------------");
@@ -21,7 +21,7 @@ public class ListDemo1 {
 
         System.out.println("***********************");
 
-        //遍历2
+        //遍历2  使用迭代器
         Iterator<Student> i = l.iterator();
         while(i.hasNext()){
             Student ss = i.next();
