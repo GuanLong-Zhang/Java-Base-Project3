@@ -13,4 +13,11 @@ public class Student {
         System.out.println("name:" + name);
         System.out.println("age:" + age);
     }
+
+    //重写hashCode()方法实现每次返回的值相同
+//    @Override
+//    public int hashCode() {
+//        return 0;
+//    }
+
 }
