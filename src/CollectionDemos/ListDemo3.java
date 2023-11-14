@@ -18,14 +18,12 @@ public class ListDemo3 {
         while(li.hasNext()){
             Student ss = li.next();
             ss.printStudent();
-            System.out.println("-----------------");
         }
         System.out.println("**********************");
 
         //通过增强for循环进行遍历
         for(Student ss : l){
             ss.printStudent();
-            System.out.println("------------------");
         }
 
     }

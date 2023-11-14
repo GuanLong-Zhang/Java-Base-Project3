@@ -16,7 +16,6 @@ public class ListDemo1 {
         //遍历1 for + 索引
         for(int i = 0; i < l.size(); i++){
             l.get(i).printStudent();
-            System.out.println("-----------------");
         }
 
         System.out.println("***********************");
@@ -26,7 +25,6 @@ public class ListDemo1 {
         while(i.hasNext()){
             Student ss = i.next();
             ss.printStudent();
-            System.out.println("------------------");
         }
     }
 }

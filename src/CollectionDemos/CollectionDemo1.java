@@ -17,8 +17,6 @@ public class CollectionDemo1 {
         while(i.hasNext()){
             Student ss = i.next();
             ss.printStudent();
-            System.out.println("---------------");
-
         }
     }
 
