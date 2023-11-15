@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bdff99f5-0d68-41c6-bb65-c99f381a40fa" name="更改" comment="add">
-      <change afterPath="$PROJECT_DIR$/src/CollectionDemos/Generic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionDemos/Generic1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionDemos/Generic2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionDemos/Generic2Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionDemos/GenericDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionDemos/GenericTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionDemos/GenericTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionDemos/GenericTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionDemos/Generic3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionDemos/VariableParameters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionDemos/VariableParameters1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,20 +49,7 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
-  <component name="RunManager" selected="应用程序.GenericTest2">
-    <configuration name="GenericDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CollectionDemos.GenericDemo" />
-      <module name="Java-Base-Project3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CollectionDemos.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="应用程序.VariableParameters1">
     <configuration name="GenericTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CollectionDemos.GenericTest" />
       <module name="Java-Base-Project3" />
@@ -107,8 +89,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SetDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CollectionDemos.SetDemo1" />
+    <configuration name="VariableParameters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionDemos.VariableParameters" />
+      <module name="Java-Base-Project3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CollectionDemos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VariableParameters1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionDemos.VariableParameters1" />
       <module name="Java-Base-Project3" />
       <extension name="coverage">
         <pattern>
@@ -122,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.VariableParameters1" />
+        <item itemvalue="应用程序.VariableParameters" />
         <item itemvalue="应用程序.GenericTest2" />
         <item itemvalue="应用程序.GenericTest1" />
         <item itemvalue="应用程序.GenericTest" />
-        <item itemvalue="应用程序.GenericDemo" />
-        <item itemvalue="应用程序.SetDemo1" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +134,7 @@
       <option name="presentableId" value="Default" />
       <updated>1699694387101</updated>
       <workItem from="1699694388348" duration="71170000" />
-      <workItem from="1700012500867" duration="12316000" />
+      <workItem from="1700012500867" duration="20944000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <created>1699695765476</created>
@@ -288,7 +283,14 @@
       <option name="project" value="LOCAL" />
       <updated>1700017543027</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="add">
+      <created>1700037778034</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1700037778034</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
