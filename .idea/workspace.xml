@@ -5,15 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bdff99f5-0d68-41c6-bb65-c99f381a40fa" name="更改" comment="add">
-      <change afterPath="$PROJECT_DIR$/src/CollectionDemos/HashSetDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionDemos/LinkedHashSetDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionDemos/TreeSetDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionDemos/TreeSetDemo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CollectionDemos/CollectionDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CollectionDemos/CollectionDemo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CollectionDemos/ListDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CollectionDemos/ListDemo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CollectionDemos/ListDemo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CollectionDemos/ListDemo3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CollectionDemos/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CollectionDemos/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataDemos/CalendarDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DateDemos/CalendarDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataDemos/DataDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DateDemos/DateDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataDemos/DateUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DateDemos/DateUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataDemos/DateUtilsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DateDemos/DateUtilsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataDemos/SimpleDateFormatDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DateDemos/SimpleDateFormatDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataDemos/TwoMonthDay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DateDemos/TwoMonthDay.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,7 +134,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699694387101</updated>
-      <workItem from="1699694388348" duration="69010000" />
+      <workItem from="1699694388348" duration="70969000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <created>1699695765476</created>
@@ -258,7 +255,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699949910493</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="add">
+      <created>1699968370638</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1699968370638</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

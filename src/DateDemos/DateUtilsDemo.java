@@ -1,4 +1,4 @@
-package DataDemos;
+package DateDemos;
 import java.text.ParseException;
 import java.util.Date;
 

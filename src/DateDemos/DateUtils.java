@@ -1,4 +1,4 @@
-package DataDemos;
+package DateDemos;
 import java.text.ParseException;    //抛出异常
 import java.util.Date;
 import java.text.SimpleDateFormat;

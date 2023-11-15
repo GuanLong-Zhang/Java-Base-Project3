@@ -1,7 +1,7 @@
-package DataDemos;
+package DateDemos;
 import java.util.Date;
 
-public class DataDemo {
+public class DateDemo {
     public static void main(String[] args) {
         Date d = new Date();
         System.out.println(d);     //输出现在的时间 格式为：Sun Nov 12 21:50:45 CST 2023
