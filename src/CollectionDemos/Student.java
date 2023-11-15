@@ -11,6 +11,15 @@ public class Student implements Comparable<Student>{
         this.age = age;
     }
 
+    public int getAge() {
+        return age;
+    }
+
+    public String getName(){
+        return name;
+    }
+
+
     public void printStudent(){
         System.out.println("name:" + name + "   " + "age:" + age);
     }
