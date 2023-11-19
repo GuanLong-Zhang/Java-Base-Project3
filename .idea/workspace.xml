@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bdff99f5-0d68-41c6-bb65-c99f381a40fa" name="更改" comment="add">
-      <change afterPath="$PROJECT_DIR$/src/CollectionsDemos/CollectionsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionsDemos/CollectionsDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionsDemos/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/File/FileDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/File/FileDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/File/FileDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javac.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/File/FileInputOutput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/File/FileInputStreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/File/FileOutputStreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/File/FileOutputStreamDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/File/Recursion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,34 +41,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
   }
-}</component>
-  <component name="RunManager" selected="应用程序.FileDemo2">
-    <configuration name="CollectionsDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CollectionsDemos.CollectionsDemo1" />
-      <module name="Java-Base-Project3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CollectionsDemos.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FileDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="File.FileDemo" />
+}]]></component>
+  <component name="RunManager" selected="应用程序.FileInputStreamDemo">
+    <configuration name="FileInputOutput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="File.FileInputOutput" />
       <module name="Java-Base-Project3" />
       <extension name="coverage">
         <pattern>
@@ -79,8 +68,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="File.FileDemo1" />
+    <configuration name="FileInputStreamDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="File.FileInputStreamDemo" />
       <module name="Java-Base-Project3" />
       <extension name="coverage">
         <pattern>
@@ -92,8 +81,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="File.FileDemo2" />
+    <configuration name="FileOutputStreamDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="File.FileOutputStreamDemo" />
       <module name="Java-Base-Project3" />
       <extension name="coverage">
         <pattern>
@@ -105,12 +94,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashSetDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CollectionDemos.HashSetDemo" />
+    <configuration name="FileOutputStreamDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="File.FileOutputStreamDemo1" />
       <module name="Java-Base-Project3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CollectionDemos.*" />
+          <option name="PATTERN" value="File.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="File.Recursion" />
+      <module name="Java-Base-Project3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="File.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.FileDemo2" />
-        <item itemvalue="应用程序.FileDemo1" />
-        <item itemvalue="应用程序.FileDemo" />
-        <item itemvalue="应用程序.CollectionsDemo1" />
-        <item itemvalue="应用程序.HashSetDemo" />
+        <item itemvalue="应用程序.FileInputStreamDemo" />
+        <item itemvalue="应用程序.FileInputOutput" />
+        <item itemvalue="应用程序.FileOutputStreamDemo" />
+        <item itemvalue="应用程序.FileOutputStreamDemo1" />
+        <item itemvalue="应用程序.Recursion" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +141,7 @@
       <workItem from="1699694388348" duration="71170000" />
       <workItem from="1700012500867" duration="32603000" />
       <workItem from="1700142042913" duration="5709000" />
-      <workItem from="1700293097633" duration="7801000" />
+      <workItem from="1700293097633" duration="22333000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <created>1699695765476</created>
@@ -337,7 +339,14 @@
       <option name="project" value="LOCAL" />
       <updated>1700219189671</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="add">
+      <created>1700304106862</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1700304106862</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -355,6 +364,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="add" />
     <option name="LAST_COMMIT_MESSAGE" value="add" />
   </component>
